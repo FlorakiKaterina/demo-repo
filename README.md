@@ -5,5 +5,7 @@ Some Description.
 ## Subheader
 
 more text
-check this
 
+## Local Development
+
+1. Open index.html in your browser.
